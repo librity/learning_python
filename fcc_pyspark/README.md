@@ -21,6 +21,10 @@ $ jupyter-lab
 
 ## PySpark
 
+- https://spark.apache.org/
+- https://spark.apache.org/examples.html
+- https://spark.apache.org/docs/latest/
+
 ```bash
 $ pip install pyspark
 ```
