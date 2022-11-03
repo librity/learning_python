@@ -18,3 +18,9 @@
 $ pip install jupyterlab
 $ jupyter-lab
 ```
+
+## PySpark
+
+```bash
+$ pip install pyspark
+```
