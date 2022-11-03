@@ -24,6 +24,7 @@ $ jupyter-lab
 - https://spark.apache.org/
 - https://spark.apache.org/examples.html
 - https://spark.apache.org/docs/latest/
+- https://stackoverflow.com/questions/31385363/how-to-export-a-table-dataframe-in-pyspark-to-csv
 
 ```bash
 $ pip install pyspark
